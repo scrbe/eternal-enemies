@@ -26,7 +26,7 @@ const main = () => {
         `);
 
     const width = document.querySelector(".game-screen").offsetWidth;
-    const height = document.querySelector(".game-screen").offsetHeight;
+    const height = document.querySelector(".game-screen").offsetHeight; 
 
     const canvasElement = document.querySelector("canvas");
 
